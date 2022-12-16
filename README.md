@@ -1,5 +1,5 @@
 # Hi 👋🏻, I'm Manan Mehta
-##### 🗯 A passionate full stack developer and a deep learning engineer from India
+##### 🗯 A Dev wizard and machine learning mastermind, dabbling in the dark arts of code and algorithms
 ## 🌐 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mananmehta01) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12745742) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mehtamanan07) 
 
